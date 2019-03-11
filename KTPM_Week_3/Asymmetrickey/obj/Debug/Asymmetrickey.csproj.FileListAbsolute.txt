@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\KTPM_Week_3\Asymmetrickey\bin\Debug\Asymmetrickey.exe.config
+C:\Users\Acer\source\repos\KTPM_Week_3\Asymmetrickey\bin\Debug\Asymmetrickey.exe
+C:\Users\Acer\source\repos\KTPM_Week_3\Asymmetrickey\bin\Debug\Asymmetrickey.pdb
+C:\Users\Acer\source\repos\KTPM_Week_3\Asymmetrickey\obj\Debug\Asymmetrickey.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\KTPM_Week_3\Asymmetrickey\obj\Debug\Asymmetrickey.Form1.resources
+C:\Users\Acer\source\repos\KTPM_Week_3\Asymmetrickey\obj\Debug\Asymmetrickey.Properties.Resources.resources
+C:\Users\Acer\source\repos\KTPM_Week_3\Asymmetrickey\obj\Debug\Asymmetrickey.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\KTPM_Week_3\Asymmetrickey\obj\Debug\Asymmetrickey.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\KTPM_Week_3\Asymmetrickey\obj\Debug\Asymmetrickey.exe
+C:\Users\Acer\source\repos\KTPM_Week_3\Asymmetrickey\obj\Debug\Asymmetrickey.pdb

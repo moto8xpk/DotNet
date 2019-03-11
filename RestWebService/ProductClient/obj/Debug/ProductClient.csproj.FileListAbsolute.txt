@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\RestWebService\ProductClient\bin\Debug\ProductClient.exe.config
+C:\Users\Acer\source\repos\RestWebService\ProductClient\bin\Debug\ProductClient.exe
+C:\Users\Acer\source\repos\RestWebService\ProductClient\bin\Debug\ProductClient.pdb
+C:\Users\Acer\source\repos\RestWebService\ProductClient\obj\Debug\ProductClient.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RestWebService\ProductClient\obj\Debug\ProductClient.Form1.resources
+C:\Users\Acer\source\repos\RestWebService\ProductClient\obj\Debug\ProductClient.Properties.Resources.resources
+C:\Users\Acer\source\repos\RestWebService\ProductClient\obj\Debug\ProductClient.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\RestWebService\ProductClient\obj\Debug\ProductClient.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RestWebService\ProductClient\obj\Debug\ProductClient.exe
+C:\Users\Acer\source\repos\RestWebService\ProductClient\obj\Debug\ProductClient.pdb
+C:\Users\Acer\source\repos\RestWebService\ProductClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\source\repos\RestWebService\ProductClient\bin\Debug\ProductShared.dll
+C:\Users\Acer\source\repos\RestWebService\ProductClient\bin\Debug\ProductShared.pdb
+C:\Users\Acer\source\repos\RestWebService\ProductClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Acer\source\repos\RestWebService\ProductClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\source\repos\RestWebService\ProductClient\obj\Debug\ProductClient.csproj.CopyComplete

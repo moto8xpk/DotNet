@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\RestWebService\ProductShared\bin\Debug\ProductShared.dll
+C:\Users\Acer\source\repos\RestWebService\ProductShared\bin\Debug\ProductShared.pdb
+C:\Users\Acer\source\repos\RestWebService\ProductShared\obj\Debug\ProductShared.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RestWebService\ProductShared\obj\Debug\ProductShared.dll
+C:\Users\Acer\source\repos\RestWebService\ProductShared\obj\Debug\ProductShared.pdb
+C:\Users\Acer\source\repos\RestWebService\ProductShared\obj\Debug\ProductShared.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\KTPM_Week_3\KTPM_Week_3\bin\Debug\KTPM_Week_3.exe.config
+C:\Users\Acer\source\repos\KTPM_Week_3\KTPM_Week_3\bin\Debug\KTPM_Week_3.exe
+C:\Users\Acer\source\repos\KTPM_Week_3\KTPM_Week_3\bin\Debug\KTPM_Week_3.pdb
+C:\Users\Acer\source\repos\KTPM_Week_3\KTPM_Week_3\obj\Debug\KTPM_Week_3.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\KTPM_Week_3\KTPM_Week_3\obj\Debug\KTPM_Week_3.Form1.resources
+C:\Users\Acer\source\repos\KTPM_Week_3\KTPM_Week_3\obj\Debug\KTPM_Week_3.Properties.Resources.resources
+C:\Users\Acer\source\repos\KTPM_Week_3\KTPM_Week_3\obj\Debug\KTPM_Week_3.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\KTPM_Week_3\KTPM_Week_3\obj\Debug\KTPM_Week_3.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\KTPM_Week_3\KTPM_Week_3\obj\Debug\KTPM_Week_3.exe
+C:\Users\Acer\source\repos\KTPM_Week_3\KTPM_Week_3\obj\Debug\KTPM_Week_3.pdb

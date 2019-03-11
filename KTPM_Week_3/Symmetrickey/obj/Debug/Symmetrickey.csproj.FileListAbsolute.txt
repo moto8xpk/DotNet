@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\KTPM_Week_3\Symmetrickey\bin\Debug\Symmetrickey.exe.config
+C:\Users\Acer\source\repos\KTPM_Week_3\Symmetrickey\bin\Debug\Symmetrickey.exe
+C:\Users\Acer\source\repos\KTPM_Week_3\Symmetrickey\bin\Debug\Symmetrickey.pdb
+C:\Users\Acer\source\repos\KTPM_Week_3\Symmetrickey\obj\Debug\Symmetrickey.Form1.resources
+C:\Users\Acer\source\repos\KTPM_Week_3\Symmetrickey\obj\Debug\Symmetrickey.Properties.Resources.resources
+C:\Users\Acer\source\repos\KTPM_Week_3\Symmetrickey\obj\Debug\Symmetrickey.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\KTPM_Week_3\Symmetrickey\obj\Debug\Symmetrickey.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\KTPM_Week_3\Symmetrickey\obj\Debug\Symmetrickey.exe
+C:\Users\Acer\source\repos\KTPM_Week_3\Symmetrickey\obj\Debug\Symmetrickey.pdb
+C:\Users\Acer\source\repos\KTPM_Week_3\Symmetrickey\obj\Debug\Symmetrickey.csprojAssemblyReference.cache
